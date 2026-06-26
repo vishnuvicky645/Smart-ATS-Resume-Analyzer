@@ -1,0 +1,30 @@
+John Doe
+Email: john.doe@example.com
+Phone: +1-555-0199
+LinkedIn: linkedin.com/in/johndoe
+GitHub: github.com/johndoe
+
+PROFESSIONAL SUMMARY
+Experienced Software Engineer with a strong background in artificial intelligence, machine learning, and python development. Seeking to build robust and scalable systems using modern deep learning libraries and frameworks.
+
+TECHNICAL SKILLS
+- Languages: Python, JavaScript, SQL
+- Libraries: Pandas, NumPy, Scikit-Learn
+- ML Tools: Machine Learning, Deep Learning
+- Other: Git, Docker, REST APIs
+
+EXPERIENCE
+AI Engineer | TechCorp Inc.
+2023 - Present
+- Led a team of 3 developers to build and deploy machine learning models to production using FastAPI and Docker, reducing API latency by 15%.
+- Engineered data pipeline processing 5 million records daily using Python, Pandas, and NumPy, increasing data processing throughput by 25%.
+- Optimized deep learning models, saving $12,000 in monthly cloud infrastructure costs.
+
+Software Engineer | DevGroup
+2021 - 2023
+- Developed REST APIs and responsive frontend interfaces using React, JavaScript, and CSS.
+- Maintained SQL database queries, improving lookup efficiency by 10%.
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Technology | 2017 - 2021

@@ -1,0 +1,7 @@
+Python
+Pandas
+NumPy
+SQL
+Machine Learning
+Scikit-Learn
+TensorFlow

@@ -1,0 +1,34 @@
+# Python Backend Git Ignores
+Backend/venv/
+Backend/__pycache__/
+Backend/**/*.pyc
+Backend/**/*.pyo
+Backend/**/*.pyd
+Backend/.pytest_cache/
+Backend/.env
+Backend/*.log
+
+# Node Frontend Git Ignores
+Frontend/node_modules/
+Frontend/dist/
+Frontend/dist-ssr/
+Frontend/npm-debug.log*
+Frontend/yarn-debug.log*
+Frontend/yarn-error.log*
+Frontend/pnpm-debug.log*
+Frontend/*.local
+
+# Logs and system files
+logs/
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE and Editor configs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
