@@ -53,6 +53,9 @@ graph TD
 3. **Client Optimization**: The frontend displays structural gaps and missing keywords. If the user enters a Gemini API key (stored securely in browser `localStorage`), they can trigger requests directly from the client to Gemini to tailor their experiences.
 
 ---
+## Live Demo
+Frontend: https://smart-ats-resume-analyzer-nu.vercel.app/
+Backend API: https://smart-ats-resume-analyzer-n1k1.onrender.com
 
 ## ⚙️ Setup and Running Guide
 
