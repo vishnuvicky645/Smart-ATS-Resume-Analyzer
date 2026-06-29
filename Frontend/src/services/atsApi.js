@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const api = axios.create({
-  baseURL: 'http://127.0.0.1:8000',
+  baseURL: 'https://smart-ats-resume-analyzer-n1k1.onrender.com',
 })
 
 export async function analyzeResume(file, jobDescription) {
